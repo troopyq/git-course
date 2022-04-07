@@ -17,5 +17,7 @@ console.log('test 2')
 console.log('Разрабатываю функционал')
 
 function getname() {
-  return 'dima'
+  console.log('bugfix')
+  const name = 'Dima'
+  return name
 }
